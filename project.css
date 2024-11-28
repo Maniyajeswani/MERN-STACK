@@ -1,0 +1,22 @@
+.first{
+    font-weight: bold;
+}
+.second{
+    font-size: xx-large;
+}
+.second p{
+    font-size: medium;
+    font-family: sans-serif;
+
+}
+.line{
+    list-style: bold;
+}
+.image{
+    display: flex;
+    width: 400px;
+}
+
+.image2{
+    width: 400px;
+}
